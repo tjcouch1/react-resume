@@ -1,5 +1,16 @@
 .App {
+  background-color: #282c34;
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+
+.App .resume {
+  background-color: white;
+  width: 8.5in;
+  height: 11in;
 }
 
 .App-logo {
